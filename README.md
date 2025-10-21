@@ -1,6 +1,6 @@
 # Marketing Analytics Demo
 
-Hi, I'm Annalise!I am a marketing strategist exploring how data and technology can make storytelling more human and efficient.  
+Hi, I'm Annalise! I am a marketing strategist exploring how data and technology can make storytelling more human and efficient.  
 This small project explores how simple analytics can help uncover insights that drive engagement and retention.
 
 ### About the data
