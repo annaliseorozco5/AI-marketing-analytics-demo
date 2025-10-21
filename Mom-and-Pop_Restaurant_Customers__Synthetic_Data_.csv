@@ -1,0 +1,501 @@
+Age,Household Income,Household Occupancy Type,Eating Out Frequency (Monthly),Preferred Meal Time,Ordering Style,Average Spend per Visit (GBP),Loyalty Program Usage,Total Visits in Last 6 Months,Dining Motivation,Food Values,Openness to New Cuisines,Customer Review
+22,High,Couple,11,Breakfast,Takeout,9.24,No,24,Social Aspect,Experimental,High,The portions were generous and the flavors authentic.
+48,Medium,Couple,13,Dinner,Dine-in,33.36,Yes,3,Taste,Experimental,High,The portions were generous and the flavors authentic.
+27,High,Multigenerational,13,Lunch,Dine-in,28.84,No,18,Convenience,Experimental,Medium,"Not my usual spot, but I was pleasantly surprised."
+38,Low,Couple,0,Late-night,Delivery,54.66,Yes,3,Convenience,Healthy,Medium,Felt like I was eating at a friend's house. So comforting.
+39,Medium,Couple,4,Late-night,Dine-in,40.78,Yes,22,Tradition,Experimental,High,"Not my usual spot, but I was pleasantly surprised."
+24,High,Single,3,Late-night,Takeout,5.67,No,6,Taste,Experimental,High,The service was friendly and the food felt homemade.
+63,Low,Multigenerational,3,Late-night,Dine-in,28.93,Yes,4,Tradition,Locally Sourced,Low,The service was friendly and the food felt homemade.
+54,Low,Couple,7,Late-night,Delivery,40.85,Yes,35,Convenience,Locally Sourced,Medium,"The wait was a bit long, but the food made up for it."
+58,High,Single,3,Late-night,Dine-in,21.95,No,25,Convenience,Comfort Food,Low,Felt like I was eating at a friend's house. So comforting.
+54,Low,Family with Kids,11,Late-night,Delivery,47.71,No,29,Convenience,Healthy,Low,Great experience! Will definitely be coming back soon.
+53,Medium,Single,4,Breakfast,Dine-in,27.64,Yes,37,Tradition,Comfort Food,Medium,The service was friendly and the food felt homemade.
+51,Medium,Multigenerational,9,Breakfast,Takeout,25.09,Yes,16,Taste,Locally Sourced,Medium,Felt like I was eating at a friend's house. So comforting.
+54,High,Single,5,Breakfast,Delivery,44.91,No,14,Tradition,Healthy,Low,The service was friendly and the food felt homemade.
+52,High,Family with Kids,5,Breakfast,Dine-in,36.58,Yes,17,Tradition,Experimental,Medium,The service was friendly and the food felt homemade.
+43,High,Family with Kids,13,Dinner,Dine-in,47.05,No,9,Tradition,Experimental,Low,Great experience! Will definitely be coming back soon.
+53,Low,Family with Kids,10,Dinner,Dine-in,25.55,No,31,Convenience,Healthy,Medium,I loved the cozy atmosphere and the fresh ingredients.
+30,High,Couple,4,Lunch,Delivery,56.18,Yes,17,Social Aspect,Comfort Food,Medium,"The wait was a bit long, but the food made up for it."
+19,High,Couple,13,Lunch,Delivery,48.32,Yes,21,Tradition,Healthy,Low,"Not my usual spot, but I was pleasantly surprised."
+39,Medium,Single,6,Lunch,Takeout,42.54,No,25,Convenience,Experimental,Medium,A perfect spot for a quiet meal and good conversation.
+60,High,Family with Kids,5,Late-night,Delivery,32.38,No,34,Tradition,Locally Sourced,High,"Affordable, delicious, and a true neighborhood gem."
+61,Low,Couple,1,Lunch,Takeout,14.0,Yes,39,Social Aspect,Comfort Food,High,The portions were generous and the flavors authentic.
+70,Low,Family with Kids,12,Late-night,Takeout,40.71,No,22,Social Aspect,Comfort Food,Low,Tried something new and absolutely loved it.
+55,Medium,Single,5,Lunch,Takeout,15.77,Yes,39,Convenience,Comfort Food,High,I loved the cozy atmosphere and the fresh ingredients.
+52,Low,Family with Kids,5,Breakfast,Takeout,22.84,Yes,0,Taste,Healthy,Medium,"The wait was a bit long, but the food made up for it."
+41,High,Multigenerational,10,Dinner,Dine-in,9.18,No,7,Taste,Comfort Food,High,Great experience! Will definitely be coming back soon.
+69,Medium,Family with Kids,1,Dinner,Dine-in,43.57,No,0,Convenience,Healthy,High,"The wait was a bit long, but the food made up for it."
+52,Low,Family with Kids,2,Lunch,Delivery,45.53,Yes,10,Tradition,Healthy,High,A perfect spot for a quiet meal and good conversation.
+55,High,Multigenerational,1,Late-night,Dine-in,6.21,No,4,Convenience,Experimental,Low,I loved the cozy atmosphere and the fresh ingredients.
+38,High,Couple,1,Dinner,Dine-in,10.25,No,23,Tradition,Experimental,Medium,"The wait was a bit long, but the food made up for it."
+32,Medium,Family with Kids,4,Late-night,Delivery,24.83,No,31,Tradition,Healthy,Medium,A perfect spot for a quiet meal and good conversation.
+28,Low,Couple,2,Lunch,Dine-in,20.1,Yes,15,Taste,Experimental,High,Tried something new and absolutely loved it.
+61,High,Family with Kids,13,Lunch,Takeout,33.0,Yes,27,Tradition,Locally Sourced,Medium,A perfect spot for a quiet meal and good conversation.
+27,Medium,Family with Kids,4,Dinner,Takeout,29.57,Yes,32,Tradition,Comfort Food,Medium,I loved the cozy atmosphere and the fresh ingredients.
+60,Low,Family with Kids,4,Late-night,Delivery,31.91,Yes,6,Convenience,Healthy,Medium,Tried something new and absolutely loved it.
+41,Low,Multigenerational,12,Breakfast,Dine-in,49.64,Yes,8,Tradition,Experimental,Medium,A perfect spot for a quiet meal and good conversation.
+23,High,Multigenerational,0,Lunch,Delivery,47.63,Yes,25,Tradition,Healthy,High,"The wait was a bit long, but the food made up for it."
+44,High,Couple,11,Breakfast,Dine-in,14.39,Yes,3,Convenience,Locally Sourced,Medium,Tried something new and absolutely loved it.
+18,Medium,Family with Kids,12,Lunch,Takeout,55.96,Yes,7,Social Aspect,Locally Sourced,High,I loved the cozy atmosphere and the fresh ingredients.
+47,High,Couple,11,Late-night,Delivery,22.98,No,22,Social Aspect,Comfort Food,High,Felt like I was eating at a friend's house. So comforting.
+22,High,Multigenerational,12,Breakfast,Dine-in,20.59,Yes,11,Social Aspect,Healthy,High,A perfect spot for a quiet meal and good conversation.
+47,Low,Single,8,Breakfast,Dine-in,28.77,Yes,4,Tradition,Locally Sourced,Low,The portions were generous and the flavors authentic.
+37,High,Single,1,Lunch,Dine-in,13.09,Yes,36,Social Aspect,Healthy,Low,A perfect spot for a quiet meal and good conversation.
+36,Low,Multigenerational,4,Lunch,Takeout,56.69,No,39,Tradition,Experimental,Low,The portions were generous and the flavors authentic.
+63,Medium,Multigenerational,7,Late-night,Delivery,5.16,Yes,0,Convenience,Healthy,Low,Tried something new and absolutely loved it.
+19,Low,Single,13,Lunch,Delivery,43.39,Yes,34,Taste,Healthy,Low,Felt like I was eating at a friend's house. So comforting.
+42,Medium,Family with Kids,13,Breakfast,Dine-in,24.15,No,28,Tradition,Comfort Food,High,"The wait was a bit long, but the food made up for it."
+49,High,Multigenerational,11,Lunch,Delivery,18.04,No,38,Convenience,Comfort Food,Medium,A perfect spot for a quiet meal and good conversation.
+30,High,Multigenerational,12,Breakfast,Dine-in,21.18,No,30,Tradition,Comfort Food,Low,I loved the cozy atmosphere and the fresh ingredients.
+28,Medium,Family with Kids,13,Breakfast,Dine-in,25.54,No,28,Convenience,Locally Sourced,High,"The wait was a bit long, but the food made up for it."
+20,Medium,Couple,9,Late-night,Delivery,13.87,No,14,Taste,Locally Sourced,Low,Felt like I was eating at a friend's house. So comforting.
+37,Medium,Single,10,Late-night,Takeout,28.37,Yes,32,Convenience,Experimental,Medium,Felt like I was eating at a friend's house. So comforting.
+26,High,Single,3,Breakfast,Dine-in,42.23,Yes,7,Social Aspect,Experimental,High,Tried something new and absolutely loved it.
+26,Medium,Single,13,Dinner,Takeout,33.37,No,9,Taste,Healthy,Medium,Felt like I was eating at a friend's house. So comforting.
+43,Medium,Family with Kids,11,Breakfast,Dine-in,46.96,Yes,17,Taste,Locally Sourced,Low,The service was friendly and the food felt homemade.
+18,High,Couple,13,Lunch,Dine-in,47.39,No,27,Taste,Locally Sourced,High,Tried something new and absolutely loved it.
+27,Medium,Multigenerational,2,Late-night,Dine-in,50.32,Yes,20,Convenience,Locally Sourced,Low,Great experience! Will definitely be coming back soon.
+63,Medium,Multigenerational,10,Breakfast,Dine-in,12.88,No,15,Convenience,Comfort Food,High,Tried something new and absolutely loved it.
+19,High,Single,12,Late-night,Delivery,28.9,No,18,Tradition,Experimental,Low,I loved the cozy atmosphere and the fresh ingredients.
+26,High,Couple,3,Late-night,Delivery,32.14,Yes,24,Taste,Experimental,Low,A perfect spot for a quiet meal and good conversation.
+70,Low,Single,1,Late-night,Delivery,9.92,Yes,32,Social Aspect,Locally Sourced,High,A perfect spot for a quiet meal and good conversation.
+26,High,Couple,1,Late-night,Takeout,8.81,No,22,Convenience,Locally Sourced,Medium,"Not my usual spot, but I was pleasantly surprised."
+19,Medium,Family with Kids,11,Dinner,Takeout,18.35,No,1,Taste,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+62,Medium,Single,9,Breakfast,Dine-in,12.09,No,31,Tradition,Locally Sourced,Low,Tried something new and absolutely loved it.
+42,High,Family with Kids,6,Dinner,Delivery,26.7,No,18,Taste,Comfort Food,Medium,Great experience! Will definitely be coming back soon.
+68,Low,Single,1,Dinner,Dine-in,23.23,No,16,Taste,Comfort Food,High,A perfect spot for a quiet meal and good conversation.
+48,High,Single,6,Dinner,Takeout,48.04,No,30,Social Aspect,Locally Sourced,Medium,I loved the cozy atmosphere and the fresh ingredients.
+44,Medium,Couple,3,Lunch,Dine-in,58.07,Yes,26,Convenience,Comfort Food,High,I loved the cozy atmosphere and the fresh ingredients.
+58,Low,Couple,11,Dinner,Dine-in,5.12,Yes,7,Taste,Healthy,High,Tried something new and absolutely loved it.
+54,High,Multigenerational,4,Lunch,Takeout,17.19,No,13,Taste,Comfort Food,High,Felt like I was eating at a friend's house. So comforting.
+38,Medium,Couple,0,Late-night,Delivery,26.19,No,14,Tradition,Comfort Food,High,The service was friendly and the food felt homemade.
+27,Low,Multigenerational,11,Dinner,Dine-in,29.24,No,30,Social Aspect,Locally Sourced,Medium,"Affordable, delicious, and a true neighborhood gem."
+64,High,Family with Kids,5,Late-night,Takeout,59.37,Yes,39,Convenience,Comfort Food,High,Felt like I was eating at a friend's house. So comforting.
+64,High,Single,2,Late-night,Dine-in,52.2,No,9,Tradition,Locally Sourced,High,The portions were generous and the flavors authentic.
+59,High,Family with Kids,2,Late-night,Takeout,47.36,No,6,Convenience,Experimental,Medium,"Affordable, delicious, and a true neighborhood gem."
+56,Medium,Multigenerational,11,Lunch,Delivery,44.22,No,6,Tradition,Locally Sourced,Medium,I loved the cozy atmosphere and the fresh ingredients.
+70,High,Family with Kids,12,Breakfast,Delivery,7.93,No,5,Tradition,Healthy,Medium,A perfect spot for a quiet meal and good conversation.
+39,Low,Family with Kids,5,Breakfast,Delivery,28.85,Yes,11,Convenience,Comfort Food,Low,The portions were generous and the flavors authentic.
+32,High,Family with Kids,0,Late-night,Dine-in,49.27,No,32,Convenience,Healthy,Medium,Tried something new and absolutely loved it.
+21,Low,Single,3,Lunch,Takeout,40.21,No,26,Social Aspect,Comfort Food,Medium,I loved the cozy atmosphere and the fresh ingredients.
+21,Medium,Single,12,Breakfast,Takeout,24.23,No,29,Social Aspect,Locally Sourced,Medium,I loved the cozy atmosphere and the fresh ingredients.
+68,High,Multigenerational,4,Lunch,Dine-in,7.0,No,0,Convenience,Experimental,High,A perfect spot for a quiet meal and good conversation.
+23,Medium,Couple,1,Dinner,Delivery,51.62,No,31,Tradition,Locally Sourced,Low,"Affordable, delicious, and a true neighborhood gem."
+59,High,Multigenerational,1,Breakfast,Dine-in,9.9,Yes,0,Tradition,Locally Sourced,High,Felt like I was eating at a friend's house. So comforting.
+23,Low,Family with Kids,11,Late-night,Delivery,7.69,Yes,5,Social Aspect,Healthy,Low,The portions were generous and the flavors authentic.
+53,Low,Multigenerational,7,Dinner,Delivery,52.26,No,4,Social Aspect,Experimental,Low,"Not my usual spot, but I was pleasantly surprised."
+40,Medium,Couple,4,Breakfast,Takeout,47.79,Yes,15,Tradition,Comfort Food,Medium,Tried something new and absolutely loved it.
+25,Medium,Multigenerational,12,Lunch,Dine-in,59.66,Yes,14,Taste,Experimental,Medium,A perfect spot for a quiet meal and good conversation.
+50,Medium,Multigenerational,7,Lunch,Takeout,17.32,Yes,16,Taste,Experimental,Medium,"Not my usual spot, but I was pleasantly surprised."
+54,Medium,Couple,10,Breakfast,Delivery,30.75,No,3,Social Aspect,Experimental,High,"The wait was a bit long, but the food made up for it."
+69,Low,Single,11,Breakfast,Delivery,58.77,No,11,Tradition,Healthy,Low,"Affordable, delicious, and a true neighborhood gem."
+64,High,Single,13,Late-night,Delivery,50.05,Yes,26,Convenience,Experimental,High,I loved the cozy atmosphere and the fresh ingredients.
+49,High,Single,6,Dinner,Takeout,37.94,Yes,40,Taste,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+20,Medium,Single,3,Lunch,Delivery,50.74,Yes,10,Tradition,Comfort Food,Low,"Affordable, delicious, and a true neighborhood gem."
+47,Low,Multigenerational,3,Breakfast,Delivery,34.09,Yes,32,Taste,Experimental,High,A perfect spot for a quiet meal and good conversation.
+20,Low,Family with Kids,4,Breakfast,Delivery,35.8,Yes,21,Tradition,Comfort Food,Medium,"The wait was a bit long, but the food made up for it."
+23,High,Family with Kids,2,Late-night,Delivery,25.08,Yes,23,Convenience,Locally Sourced,Medium,Great experience! Will definitely be coming back soon.
+46,High,Family with Kids,1,Dinner,Dine-in,21.67,No,4,Social Aspect,Comfort Food,High,"The wait was a bit long, but the food made up for it."
+23,High,Family with Kids,9,Dinner,Dine-in,50.88,No,11,Tradition,Healthy,High,"The wait was a bit long, but the food made up for it."
+60,Medium,Multigenerational,1,Late-night,Dine-in,40.29,Yes,16,Convenience,Experimental,High,The service was friendly and the food felt homemade.
+35,High,Family with Kids,9,Late-night,Delivery,10.3,No,24,Convenience,Healthy,Medium,"Not my usual spot, but I was pleasantly surprised."
+26,Medium,Family with Kids,8,Lunch,Dine-in,22.6,No,5,Convenience,Experimental,High,The portions were generous and the flavors authentic.
+23,Medium,Multigenerational,8,Lunch,Dine-in,45.04,No,8,Taste,Experimental,Medium,I loved the cozy atmosphere and the fresh ingredients.
+59,Low,Multigenerational,0,Dinner,Dine-in,59.54,Yes,0,Social Aspect,Healthy,Low,Great experience! Will definitely be coming back soon.
+53,Low,Multigenerational,4,Dinner,Delivery,54.77,No,25,Tradition,Healthy,Low,"Not my usual spot, but I was pleasantly surprised."
+42,Medium,Couple,4,Lunch,Takeout,43.0,No,2,Social Aspect,Locally Sourced,High,Felt like I was eating at a friend's house. So comforting.
+22,High,Single,7,Breakfast,Delivery,54.19,No,34,Social Aspect,Experimental,Low,"The wait was a bit long, but the food made up for it."
+36,High,Couple,4,Breakfast,Delivery,28.69,Yes,6,Social Aspect,Experimental,Medium,I loved the cozy atmosphere and the fresh ingredients.
+33,High,Single,7,Breakfast,Delivery,48.31,No,16,Taste,Healthy,High,"Not my usual spot, but I was pleasantly surprised."
+19,Medium,Single,11,Late-night,Dine-in,37.5,Yes,15,Convenience,Comfort Food,Low,"Affordable, delicious, and a true neighborhood gem."
+32,Medium,Multigenerational,10,Late-night,Dine-in,49.3,No,9,Convenience,Experimental,High,The portions were generous and the flavors authentic.
+18,High,Family with Kids,11,Breakfast,Takeout,34.67,Yes,17,Tradition,Healthy,Medium,I loved the cozy atmosphere and the fresh ingredients.
+47,Low,Single,7,Dinner,Delivery,42.47,No,29,Convenience,Healthy,High,I loved the cozy atmosphere and the fresh ingredients.
+70,High,Multigenerational,5,Lunch,Delivery,25.79,No,31,Convenience,Healthy,High,Great experience! Will definitely be coming back soon.
+67,High,Single,11,Dinner,Dine-in,13.09,Yes,38,Social Aspect,Healthy,Medium,"The wait was a bit long, but the food made up for it."
+27,Medium,Family with Kids,3,Breakfast,Delivery,42.08,Yes,26,Convenience,Comfort Food,Medium,The portions were generous and the flavors authentic.
+57,Medium,Family with Kids,4,Breakfast,Takeout,24.31,Yes,37,Convenience,Experimental,High,"Not my usual spot, but I was pleasantly surprised."
+28,High,Couple,6,Lunch,Dine-in,15.63,Yes,29,Convenience,Healthy,Medium,"Affordable, delicious, and a true neighborhood gem."
+57,Medium,Single,1,Breakfast,Delivery,33.39,Yes,22,Taste,Healthy,High,I loved the cozy atmosphere and the fresh ingredients.
+20,Low,Family with Kids,11,Dinner,Takeout,43.68,No,8,Taste,Healthy,High,Great experience! Will definitely be coming back soon.
+33,High,Family with Kids,9,Breakfast,Takeout,20.14,Yes,0,Convenience,Comfort Food,High,The service was friendly and the food felt homemade.
+41,Medium,Multigenerational,12,Breakfast,Dine-in,27.54,Yes,14,Tradition,Locally Sourced,Medium,Great experience! Will definitely be coming back soon.
+46,High,Couple,7,Lunch,Dine-in,48.73,Yes,0,Tradition,Locally Sourced,Medium,"Not my usual spot, but I was pleasantly surprised."
+42,Low,Family with Kids,8,Lunch,Dine-in,59.42,Yes,19,Taste,Comfort Food,High,Tried something new and absolutely loved it.
+51,Low,Couple,5,Dinner,Takeout,50.3,No,21,Tradition,Comfort Food,High,Felt like I was eating at a friend's house. So comforting.
+32,Low,Multigenerational,13,Late-night,Dine-in,33.6,No,3,Convenience,Experimental,High,Felt like I was eating at a friend's house. So comforting.
+20,Low,Family with Kids,2,Late-night,Takeout,7.07,Yes,2,Tradition,Comfort Food,Low,Tried something new and absolutely loved it.
+61,High,Single,4,Late-night,Takeout,35.39,Yes,27,Convenience,Healthy,Low,The portions were generous and the flavors authentic.
+60,Low,Family with Kids,3,Late-night,Dine-in,48.64,No,5,Convenience,Comfort Food,Medium,The portions were generous and the flavors authentic.
+47,High,Single,10,Breakfast,Dine-in,52.72,Yes,6,Taste,Healthy,Medium,The portions were generous and the flavors authentic.
+24,High,Couple,6,Breakfast,Delivery,28.12,Yes,30,Social Aspect,Healthy,Medium,The service was friendly and the food felt homemade.
+27,Low,Family with Kids,4,Lunch,Takeout,54.03,Yes,35,Taste,Experimental,Low,Tried something new and absolutely loved it.
+18,High,Multigenerational,10,Breakfast,Takeout,34.14,Yes,40,Tradition,Locally Sourced,Low,Felt like I was eating at a friend's house. So comforting.
+65,High,Multigenerational,8,Dinner,Dine-in,9.4,Yes,32,Social Aspect,Healthy,Medium,Great experience! Will definitely be coming back soon.
+45,Medium,Single,8,Late-night,Takeout,15.65,No,37,Convenience,Comfort Food,Low,A perfect spot for a quiet meal and good conversation.
+37,Medium,Family with Kids,12,Lunch,Takeout,35.66,Yes,11,Tradition,Healthy,Low,I loved the cozy atmosphere and the fresh ingredients.
+51,Low,Single,1,Breakfast,Delivery,53.1,Yes,39,Social Aspect,Comfort Food,Low,"The wait was a bit long, but the food made up for it."
+44,High,Single,4,Dinner,Takeout,55.15,No,4,Social Aspect,Healthy,High,"Affordable, delicious, and a true neighborhood gem."
+21,High,Multigenerational,11,Late-night,Dine-in,23.27,No,33,Taste,Experimental,High,Felt like I was eating at a friend's house. So comforting.
+40,Medium,Family with Kids,11,Lunch,Takeout,12.92,No,8,Taste,Locally Sourced,High,Tried something new and absolutely loved it.
+70,Low,Couple,10,Breakfast,Takeout,12.96,Yes,14,Tradition,Experimental,High,"The wait was a bit long, but the food made up for it."
+18,Low,Multigenerational,8,Late-night,Dine-in,25.67,Yes,16,Taste,Comfort Food,Low,"Not my usual spot, but I was pleasantly surprised."
+42,Medium,Single,11,Dinner,Delivery,16.33,No,14,Taste,Healthy,Low,The portions were generous and the flavors authentic.
+42,High,Single,12,Dinner,Delivery,21.58,No,26,Taste,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+62,Low,Family with Kids,11,Breakfast,Delivery,33.37,Yes,7,Convenience,Locally Sourced,High,Great experience! Will definitely be coming back soon.
+66,High,Couple,8,Breakfast,Takeout,56.79,Yes,11,Convenience,Locally Sourced,Medium,The portions were generous and the flavors authentic.
+42,Medium,Multigenerational,6,Late-night,Delivery,53.55,Yes,13,Taste,Comfort Food,Medium,"The wait was a bit long, but the food made up for it."
+69,Low,Couple,10,Breakfast,Delivery,43.26,No,38,Tradition,Healthy,Medium,"Affordable, delicious, and a true neighborhood gem."
+60,Medium,Family with Kids,12,Dinner,Takeout,15.26,Yes,15,Convenience,Locally Sourced,High,Tried something new and absolutely loved it.
+63,Low,Couple,3,Lunch,Takeout,43.16,No,25,Taste,Comfort Food,High,I loved the cozy atmosphere and the fresh ingredients.
+37,Medium,Couple,5,Breakfast,Dine-in,58.59,Yes,37,Tradition,Healthy,Low,"The wait was a bit long, but the food made up for it."
+39,Low,Couple,3,Late-night,Dine-in,6.39,Yes,7,Convenience,Comfort Food,High,Tried something new and absolutely loved it.
+62,High,Multigenerational,7,Breakfast,Delivery,18.23,Yes,9,Convenience,Healthy,Low,I loved the cozy atmosphere and the fresh ingredients.
+40,Medium,Single,3,Dinner,Delivery,41.91,Yes,28,Convenience,Locally Sourced,Medium,"Not my usual spot, but I was pleasantly surprised."
+19,Medium,Family with Kids,6,Late-night,Dine-in,9.93,No,3,Taste,Experimental,High,"Affordable, delicious, and a true neighborhood gem."
+36,High,Couple,0,Breakfast,Delivery,7.22,Yes,40,Taste,Healthy,High,Tried something new and absolutely loved it.
+19,Low,Multigenerational,1,Breakfast,Delivery,12.43,Yes,33,Taste,Locally Sourced,High,Tried something new and absolutely loved it.
+35,Low,Single,3,Late-night,Takeout,14.03,Yes,27,Taste,Locally Sourced,Low,I loved the cozy atmosphere and the fresh ingredients.
+20,Medium,Couple,2,Late-night,Takeout,31.77,No,14,Social Aspect,Locally Sourced,High,A perfect spot for a quiet meal and good conversation.
+65,Low,Family with Kids,10,Dinner,Delivery,33.62,Yes,17,Taste,Experimental,High,Great experience! Will definitely be coming back soon.
+35,Medium,Couple,3,Breakfast,Delivery,41.47,No,11,Social Aspect,Healthy,High,The portions were generous and the flavors authentic.
+52,Low,Couple,8,Late-night,Dine-in,5.14,No,8,Taste,Locally Sourced,Medium,The service was friendly and the food felt homemade.
+53,High,Family with Kids,2,Lunch,Delivery,11.45,No,40,Tradition,Experimental,Low,"Affordable, delicious, and a true neighborhood gem."
+60,Low,Multigenerational,7,Dinner,Dine-in,9.75,Yes,19,Convenience,Healthy,Low,Tried something new and absolutely loved it.
+38,High,Family with Kids,3,Breakfast,Dine-in,36.17,No,26,Taste,Healthy,Low,Great experience! Will definitely be coming back soon.
+36,Low,Single,4,Lunch,Delivery,55.92,Yes,0,Social Aspect,Experimental,Low,I loved the cozy atmosphere and the fresh ingredients.
+20,Medium,Family with Kids,13,Dinner,Dine-in,28.76,No,19,Convenience,Healthy,High,"The wait was a bit long, but the food made up for it."
+21,High,Couple,10,Breakfast,Takeout,21.49,No,19,Social Aspect,Experimental,High,Great experience! Will definitely be coming back soon.
+31,Medium,Couple,7,Dinner,Takeout,48.13,No,36,Social Aspect,Experimental,Low,I loved the cozy atmosphere and the fresh ingredients.
+62,Low,Family with Kids,1,Late-night,Takeout,7.36,Yes,13,Tradition,Locally Sourced,High,I loved the cozy atmosphere and the fresh ingredients.
+55,Medium,Multigenerational,6,Late-night,Delivery,48.75,No,0,Taste,Comfort Food,Medium,Great experience! Will definitely be coming back soon.
+23,Low,Family with Kids,4,Breakfast,Dine-in,45.84,Yes,23,Taste,Locally Sourced,High,Great experience! Will definitely be coming back soon.
+69,Low,Multigenerational,12,Breakfast,Takeout,54.39,Yes,21,Taste,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+21,Low,Multigenerational,9,Breakfast,Dine-in,30.62,Yes,3,Taste,Comfort Food,Low,Tried something new and absolutely loved it.
+18,High,Family with Kids,3,Late-night,Dine-in,31.46,No,0,Convenience,Healthy,Medium,"Not my usual spot, but I was pleasantly surprised."
+40,High,Couple,12,Lunch,Takeout,20.15,Yes,35,Social Aspect,Comfort Food,Low,The portions were generous and the flavors authentic.
+66,High,Couple,3,Dinner,Delivery,19.74,No,10,Taste,Experimental,High,Felt like I was eating at a friend's house. So comforting.
+29,Low,Family with Kids,6,Breakfast,Dine-in,37.67,No,15,Convenience,Healthy,Low,Great experience! Will definitely be coming back soon.
+33,Low,Couple,10,Breakfast,Delivery,7.09,Yes,33,Social Aspect,Healthy,High,"Not my usual spot, but I was pleasantly surprised."
+53,High,Family with Kids,7,Dinner,Takeout,13.87,Yes,6,Convenience,Locally Sourced,Low,I loved the cozy atmosphere and the fresh ingredients.
+45,Low,Single,12,Lunch,Takeout,55.67,No,11,Social Aspect,Experimental,Medium,The portions were generous and the flavors authentic.
+36,High,Couple,13,Breakfast,Dine-in,52.13,No,11,Taste,Healthy,Medium,Felt like I was eating at a friend's house. So comforting.
+21,Low,Couple,7,Late-night,Takeout,30.13,No,0,Taste,Experimental,High,A perfect spot for a quiet meal and good conversation.
+44,High,Single,6,Breakfast,Dine-in,57.35,No,9,Tradition,Comfort Food,Low,"The wait was a bit long, but the food made up for it."
+47,Low,Multigenerational,13,Late-night,Takeout,13.06,Yes,25,Tradition,Comfort Food,Low,"Not my usual spot, but I was pleasantly surprised."
+65,Low,Family with Kids,2,Late-night,Delivery,52.98,Yes,37,Tradition,Healthy,Medium,A perfect spot for a quiet meal and good conversation.
+68,High,Multigenerational,7,Late-night,Dine-in,45.15,Yes,31,Taste,Comfort Food,High,"The wait was a bit long, but the food made up for it."
+69,Medium,Couple,9,Dinner,Takeout,29.38,No,3,Convenience,Healthy,Low,"The wait was a bit long, but the food made up for it."
+22,Medium,Couple,7,Breakfast,Takeout,20.44,Yes,29,Convenience,Experimental,High,Tried something new and absolutely loved it.
+19,Low,Family with Kids,1,Breakfast,Delivery,9.85,Yes,13,Social Aspect,Healthy,Medium,"Not my usual spot, but I was pleasantly surprised."
+54,Medium,Couple,13,Breakfast,Takeout,55.88,Yes,16,Tradition,Healthy,Low,"Affordable, delicious, and a true neighborhood gem."
+39,High,Single,1,Breakfast,Dine-in,7.14,Yes,21,Convenience,Locally Sourced,Low,Tried something new and absolutely loved it.
+32,Low,Single,4,Dinner,Dine-in,52.72,No,34,Social Aspect,Locally Sourced,Medium,"The wait was a bit long, but the food made up for it."
+29,High,Family with Kids,3,Late-night,Takeout,17.56,No,14,Convenience,Locally Sourced,Low,Great experience! Will definitely be coming back soon.
+32,Medium,Couple,5,Dinner,Takeout,29.47,Yes,22,Tradition,Comfort Food,Low,"The wait was a bit long, but the food made up for it."
+32,High,Couple,11,Lunch,Dine-in,20.6,No,26,Tradition,Locally Sourced,Medium,"Affordable, delicious, and a true neighborhood gem."
+65,High,Couple,6,Breakfast,Takeout,19.64,Yes,29,Convenience,Comfort Food,Low,"Affordable, delicious, and a true neighborhood gem."
+67,Medium,Single,11,Dinner,Delivery,48.29,No,35,Taste,Comfort Food,High,Tried something new and absolutely loved it.
+70,Medium,Family with Kids,10,Breakfast,Delivery,31.47,No,10,Social Aspect,Comfort Food,Low,"Not my usual spot, but I was pleasantly surprised."
+46,High,Multigenerational,10,Late-night,Takeout,59.07,Yes,9,Taste,Locally Sourced,Medium,Felt like I was eating at a friend's house. So comforting.
+50,High,Couple,13,Lunch,Dine-in,53.49,No,14,Tradition,Locally Sourced,Low,"Not my usual spot, but I was pleasantly surprised."
+32,Medium,Couple,9,Dinner,Takeout,32.16,No,39,Taste,Experimental,Low,Tried something new and absolutely loved it.
+57,High,Single,4,Late-night,Takeout,26.93,Yes,33,Tradition,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+22,Medium,Family with Kids,1,Lunch,Takeout,43.01,No,19,Convenience,Experimental,High,I loved the cozy atmosphere and the fresh ingredients.
+18,Low,Single,1,Breakfast,Takeout,34.48,No,15,Social Aspect,Healthy,High,A perfect spot for a quiet meal and good conversation.
+40,Medium,Couple,5,Lunch,Delivery,47.57,No,28,Convenience,Healthy,Low,"Affordable, delicious, and a true neighborhood gem."
+29,Low,Couple,13,Dinner,Delivery,29.05,No,10,Tradition,Locally Sourced,Medium,A perfect spot for a quiet meal and good conversation.
+48,High,Single,12,Late-night,Dine-in,25.59,No,23,Taste,Locally Sourced,High,Felt like I was eating at a friend's house. So comforting.
+18,High,Couple,13,Late-night,Delivery,33.53,No,6,Taste,Experimental,Low,I loved the cozy atmosphere and the fresh ingredients.
+22,Medium,Single,9,Breakfast,Takeout,55.17,No,7,Social Aspect,Locally Sourced,Medium,"The wait was a bit long, but the food made up for it."
+69,High,Couple,0,Late-night,Dine-in,23.46,Yes,15,Convenience,Experimental,High,The portions were generous and the flavors authentic.
+46,High,Couple,9,Breakfast,Takeout,44.96,Yes,37,Taste,Healthy,Medium,Felt like I was eating at a friend's house. So comforting.
+21,High,Family with Kids,11,Late-night,Takeout,13.06,No,2,Tradition,Healthy,High,Tried something new and absolutely loved it.
+39,Low,Couple,6,Lunch,Delivery,18.6,No,5,Tradition,Comfort Food,Medium,Great experience! Will definitely be coming back soon.
+46,Low,Couple,4,Lunch,Dine-in,30.19,Yes,0,Convenience,Comfort Food,High,"The wait was a bit long, but the food made up for it."
+55,High,Single,8,Late-night,Takeout,32.11,Yes,15,Convenience,Locally Sourced,High,The service was friendly and the food felt homemade.
+30,Medium,Couple,8,Lunch,Delivery,37.78,No,0,Tradition,Experimental,Low,I loved the cozy atmosphere and the fresh ingredients.
+36,Medium,Multigenerational,3,Lunch,Dine-in,8.94,No,31,Social Aspect,Healthy,Low,A perfect spot for a quiet meal and good conversation.
+56,Low,Multigenerational,6,Breakfast,Delivery,53.4,Yes,2,Tradition,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+32,Medium,Single,2,Breakfast,Dine-in,28.36,Yes,14,Tradition,Healthy,High,A perfect spot for a quiet meal and good conversation.
+24,Low,Couple,12,Late-night,Takeout,12.63,Yes,2,Convenience,Comfort Food,Medium,"The wait was a bit long, but the food made up for it."
+57,Low,Multigenerational,6,Dinner,Delivery,9.41,Yes,36,Social Aspect,Experimental,High,"The wait was a bit long, but the food made up for it."
+61,Medium,Family with Kids,11,Late-night,Takeout,24.34,No,7,Taste,Comfort Food,High,Felt like I was eating at a friend's house. So comforting.
+70,Medium,Single,11,Lunch,Dine-in,27.74,Yes,14,Convenience,Healthy,High,"Not my usual spot, but I was pleasantly surprised."
+51,High,Couple,7,Lunch,Delivery,37.56,Yes,7,Social Aspect,Locally Sourced,Low,I loved the cozy atmosphere and the fresh ingredients.
+38,High,Multigenerational,12,Lunch,Dine-in,50.2,No,17,Convenience,Experimental,High,The portions were generous and the flavors authentic.
+26,High,Single,11,Lunch,Dine-in,56.76,No,13,Taste,Experimental,High,A perfect spot for a quiet meal and good conversation.
+52,Medium,Couple,5,Dinner,Dine-in,53.55,No,9,Taste,Locally Sourced,High,The portions were generous and the flavors authentic.
+56,Low,Single,11,Breakfast,Dine-in,40.37,Yes,8,Tradition,Healthy,Low,The service was friendly and the food felt homemade.
+66,Low,Family with Kids,7,Dinner,Dine-in,57.66,No,1,Taste,Healthy,Low,I loved the cozy atmosphere and the fresh ingredients.
+32,Medium,Single,4,Dinner,Dine-in,28.69,Yes,10,Tradition,Experimental,Medium,"The wait was a bit long, but the food made up for it."
+44,High,Single,1,Lunch,Dine-in,52.85,Yes,7,Taste,Experimental,Medium,The portions were generous and the flavors authentic.
+61,Medium,Multigenerational,11,Lunch,Takeout,32.98,Yes,12,Convenience,Experimental,Low,"The wait was a bit long, but the food made up for it."
+68,Low,Couple,7,Dinner,Takeout,43.5,No,12,Social Aspect,Experimental,High,Felt like I was eating at a friend's house. So comforting.
+48,Medium,Family with Kids,5,Dinner,Dine-in,39.44,Yes,26,Taste,Healthy,High,A perfect spot for a quiet meal and good conversation.
+29,Medium,Single,10,Late-night,Dine-in,57.9,No,18,Tradition,Experimental,Medium,I loved the cozy atmosphere and the fresh ingredients.
+46,Low,Single,10,Dinner,Takeout,53.26,No,40,Taste,Healthy,Low,A perfect spot for a quiet meal and good conversation.
+19,High,Multigenerational,1,Lunch,Dine-in,10.0,Yes,30,Convenience,Comfort Food,High,Great experience! Will definitely be coming back soon.
+31,Medium,Couple,9,Lunch,Takeout,21.38,Yes,37,Convenience,Experimental,Low,Tried something new and absolutely loved it.
+55,High,Multigenerational,8,Dinner,Delivery,28.58,No,14,Taste,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+26,Medium,Couple,2,Dinner,Delivery,13.55,No,5,Social Aspect,Experimental,High,The portions were generous and the flavors authentic.
+49,High,Single,1,Dinner,Delivery,7.4,No,22,Social Aspect,Locally Sourced,High,"Affordable, delicious, and a true neighborhood gem."
+44,Low,Multigenerational,6,Breakfast,Takeout,18.05,Yes,4,Tradition,Healthy,Low,Felt like I was eating at a friend's house. So comforting.
+35,Medium,Family with Kids,0,Breakfast,Dine-in,43.85,Yes,17,Taste,Locally Sourced,High,"Not my usual spot, but I was pleasantly surprised."
+38,Medium,Family with Kids,2,Breakfast,Takeout,20.68,No,8,Tradition,Healthy,Medium,"Affordable, delicious, and a true neighborhood gem."
+67,High,Couple,3,Dinner,Delivery,31.81,No,34,Social Aspect,Experimental,Medium,Tried something new and absolutely loved it.
+31,High,Single,1,Breakfast,Delivery,15.69,Yes,8,Social Aspect,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+48,Medium,Family with Kids,0,Lunch,Delivery,34.7,Yes,16,Social Aspect,Healthy,Low,Great experience! Will definitely be coming back soon.
+54,Medium,Family with Kids,2,Dinner,Takeout,18.38,No,18,Social Aspect,Experimental,Low,Great experience! Will definitely be coming back soon.
+57,High,Single,0,Breakfast,Delivery,16.18,Yes,36,Convenience,Locally Sourced,High,Felt like I was eating at a friend's house. So comforting.
+61,High,Multigenerational,5,Late-night,Dine-in,56.12,Yes,3,Convenience,Experimental,Low,"The wait was a bit long, but the food made up for it."
+55,Low,Multigenerational,9,Late-night,Dine-in,16.94,Yes,9,Tradition,Experimental,Low,Felt like I was eating at a friend's house. So comforting.
+43,Low,Couple,8,Dinner,Dine-in,26.96,Yes,39,Convenience,Healthy,Medium,Felt like I was eating at a friend's house. So comforting.
+24,High,Single,5,Dinner,Takeout,9.34,Yes,30,Social Aspect,Locally Sourced,Medium,Tried something new and absolutely loved it.
+56,High,Single,10,Dinner,Dine-in,30.37,No,27,Taste,Comfort Food,High,The service was friendly and the food felt homemade.
+58,Low,Single,3,Lunch,Delivery,17.83,Yes,5,Social Aspect,Comfort Food,Medium,Tried something new and absolutely loved it.
+28,Low,Family with Kids,13,Breakfast,Takeout,27.25,No,1,Convenience,Comfort Food,Medium,A perfect spot for a quiet meal and good conversation.
+39,Low,Family with Kids,9,Lunch,Dine-in,6.49,No,31,Social Aspect,Experimental,High,Tried something new and absolutely loved it.
+37,High,Single,10,Late-night,Takeout,8.75,No,32,Taste,Locally Sourced,Low,Felt like I was eating at a friend's house. So comforting.
+50,High,Couple,13,Breakfast,Takeout,19.07,Yes,29,Convenience,Healthy,High,Felt like I was eating at a friend's house. So comforting.
+46,Medium,Family with Kids,13,Breakfast,Delivery,22.54,No,38,Tradition,Experimental,Medium,The service was friendly and the food felt homemade.
+22,High,Family with Kids,6,Lunch,Dine-in,12.69,Yes,10,Taste,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+45,Medium,Single,7,Dinner,Delivery,6.88,Yes,22,Tradition,Locally Sourced,Low,Great experience! Will definitely be coming back soon.
+59,High,Couple,2,Late-night,Dine-in,10.08,Yes,11,Convenience,Experimental,Medium,I loved the cozy atmosphere and the fresh ingredients.
+30,Low,Family with Kids,6,Lunch,Takeout,11.44,No,15,Convenience,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+57,High,Couple,10,Late-night,Takeout,58.33,No,28,Tradition,Healthy,Low,Great experience! Will definitely be coming back soon.
+36,Low,Single,9,Breakfast,Delivery,48.12,No,40,Convenience,Locally Sourced,Medium,"The wait was a bit long, but the food made up for it."
+45,Medium,Family with Kids,10,Late-night,Dine-in,50.26,Yes,3,Taste,Experimental,High,"Affordable, delicious, and a true neighborhood gem."
+44,High,Couple,4,Late-night,Takeout,21.44,Yes,28,Taste,Locally Sourced,Medium,I loved the cozy atmosphere and the fresh ingredients.
+24,Medium,Multigenerational,8,Late-night,Delivery,42.53,No,23,Convenience,Experimental,Low,Great experience! Will definitely be coming back soon.
+64,Low,Couple,3,Dinner,Dine-in,30.71,No,37,Convenience,Locally Sourced,Low,"Not my usual spot, but I was pleasantly surprised."
+59,Medium,Multigenerational,4,Late-night,Takeout,39.47,No,16,Taste,Healthy,Low,I loved the cozy atmosphere and the fresh ingredients.
+29,High,Multigenerational,10,Lunch,Dine-in,12.39,Yes,3,Social Aspect,Experimental,High,I loved the cozy atmosphere and the fresh ingredients.
+68,Medium,Single,0,Lunch,Takeout,6.52,No,12,Taste,Experimental,High,The portions were generous and the flavors authentic.
+53,High,Multigenerational,9,Breakfast,Dine-in,33.32,Yes,28,Taste,Comfort Food,High,Tried something new and absolutely loved it.
+42,High,Couple,7,Dinner,Dine-in,50.2,Yes,27,Tradition,Comfort Food,High,I loved the cozy atmosphere and the fresh ingredients.
+62,Medium,Single,0,Dinner,Takeout,38.15,Yes,1,Convenience,Experimental,Medium,The portions were generous and the flavors authentic.
+41,Medium,Single,6,Lunch,Delivery,30.87,Yes,20,Taste,Locally Sourced,High,"Affordable, delicious, and a true neighborhood gem."
+60,Low,Couple,9,Breakfast,Dine-in,6.14,No,23,Taste,Healthy,High,"Not my usual spot, but I was pleasantly surprised."
+70,High,Multigenerational,12,Late-night,Dine-in,26.87,Yes,6,Tradition,Locally Sourced,High,I loved the cozy atmosphere and the fresh ingredients.
+24,High,Couple,1,Breakfast,Takeout,57.55,Yes,0,Tradition,Experimental,Low,The service was friendly and the food felt homemade.
+36,Medium,Family with Kids,8,Breakfast,Delivery,9.44,No,33,Taste,Experimental,Medium,"Affordable, delicious, and a true neighborhood gem."
+55,Medium,Single,1,Lunch,Delivery,58.54,No,38,Tradition,Locally Sourced,High,"Affordable, delicious, and a true neighborhood gem."
+38,Medium,Family with Kids,4,Lunch,Dine-in,18.63,No,5,Convenience,Locally Sourced,Medium,"Affordable, delicious, and a true neighborhood gem."
+28,Low,Multigenerational,0,Late-night,Dine-in,30.07,No,8,Tradition,Locally Sourced,Medium,I loved the cozy atmosphere and the fresh ingredients.
+30,Medium,Multigenerational,2,Lunch,Takeout,22.48,No,8,Tradition,Comfort Food,High,The service was friendly and the food felt homemade.
+28,Medium,Multigenerational,12,Late-night,Takeout,25.83,No,36,Social Aspect,Healthy,Low,Great experience! Will definitely be coming back soon.
+69,High,Single,9,Breakfast,Takeout,47.91,Yes,8,Taste,Healthy,Low,The service was friendly and the food felt homemade.
+30,Medium,Family with Kids,6,Lunch,Dine-in,16.31,No,10,Convenience,Locally Sourced,High,"The wait was a bit long, but the food made up for it."
+38,Medium,Couple,11,Dinner,Dine-in,21.87,No,29,Tradition,Experimental,Low,A perfect spot for a quiet meal and good conversation.
+45,Low,Multigenerational,1,Dinner,Delivery,37.09,Yes,37,Taste,Comfort Food,Low,The service was friendly and the food felt homemade.
+31,Medium,Family with Kids,1,Lunch,Takeout,56.14,Yes,17,Taste,Locally Sourced,Medium,Tried something new and absolutely loved it.
+62,Medium,Family with Kids,10,Breakfast,Delivery,49.81,No,8,Tradition,Healthy,High,Felt like I was eating at a friend's house. So comforting.
+45,Medium,Couple,11,Dinner,Dine-in,53.98,Yes,2,Convenience,Healthy,High,Felt like I was eating at a friend's house. So comforting.
+49,Medium,Multigenerational,9,Dinner,Delivery,36.99,No,35,Taste,Experimental,Medium,Felt like I was eating at a friend's house. So comforting.
+47,Low,Couple,10,Breakfast,Takeout,43.86,No,21,Convenience,Comfort Food,Low,A perfect spot for a quiet meal and good conversation.
+47,High,Family with Kids,6,Lunch,Dine-in,29.42,Yes,12,Tradition,Comfort Food,Low,"Not my usual spot, but I was pleasantly surprised."
+49,High,Family with Kids,4,Lunch,Delivery,40.93,Yes,26,Tradition,Experimental,Medium,The portions were generous and the flavors authentic.
+39,High,Single,9,Dinner,Delivery,16.26,Yes,3,Tradition,Healthy,Medium,A perfect spot for a quiet meal and good conversation.
+57,Low,Multigenerational,6,Late-night,Takeout,56.28,Yes,1,Taste,Healthy,Medium,Great experience! Will definitely be coming back soon.
+61,High,Couple,1,Lunch,Dine-in,17.82,No,18,Taste,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+65,Medium,Couple,5,Lunch,Takeout,22.0,Yes,34,Taste,Comfort Food,Low,The portions were generous and the flavors authentic.
+64,Medium,Multigenerational,5,Lunch,Delivery,10.46,No,19,Taste,Locally Sourced,Low,I loved the cozy atmosphere and the fresh ingredients.
+51,High,Couple,9,Dinner,Delivery,11.17,No,36,Convenience,Comfort Food,Medium,Great experience! Will definitely be coming back soon.
+49,Medium,Couple,9,Late-night,Takeout,26.41,Yes,33,Tradition,Locally Sourced,Medium,A perfect spot for a quiet meal and good conversation.
+63,High,Couple,12,Late-night,Dine-in,29.85,Yes,40,Tradition,Healthy,Low,Felt like I was eating at a friend's house. So comforting.
+52,Low,Single,10,Dinner,Delivery,48.96,Yes,39,Social Aspect,Locally Sourced,Medium,Great experience! Will definitely be coming back soon.
+69,Low,Couple,1,Dinner,Dine-in,52.57,No,26,Convenience,Experimental,High,Tried something new and absolutely loved it.
+49,Medium,Multigenerational,9,Lunch,Takeout,20.85,Yes,34,Social Aspect,Locally Sourced,High,"Not my usual spot, but I was pleasantly surprised."
+32,High,Single,3,Breakfast,Delivery,37.72,No,29,Tradition,Locally Sourced,High,I loved the cozy atmosphere and the fresh ingredients.
+61,Low,Single,4,Lunch,Takeout,33.99,Yes,5,Taste,Healthy,High,"The wait was a bit long, but the food made up for it."
+55,High,Couple,13,Breakfast,Delivery,25.34,No,32,Taste,Experimental,Low,A perfect spot for a quiet meal and good conversation.
+54,Medium,Multigenerational,13,Dinner,Takeout,28.22,No,33,Taste,Experimental,High,Great experience! Will definitely be coming back soon.
+60,High,Multigenerational,13,Late-night,Takeout,14.48,Yes,40,Convenience,Comfort Food,Low,"Affordable, delicious, and a true neighborhood gem."
+22,Medium,Family with Kids,1,Lunch,Delivery,55.5,Yes,27,Social Aspect,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+28,Medium,Multigenerational,6,Late-night,Takeout,13.24,No,21,Convenience,Experimental,High,"Not my usual spot, but I was pleasantly surprised."
+37,Medium,Single,5,Lunch,Dine-in,29.66,Yes,19,Social Aspect,Experimental,Medium,Tried something new and absolutely loved it.
+30,Low,Couple,5,Dinner,Delivery,24.53,No,11,Tradition,Healthy,Low,"Not my usual spot, but I was pleasantly surprised."
+52,High,Single,1,Lunch,Delivery,20.44,No,7,Taste,Healthy,Medium,Great experience! Will definitely be coming back soon.
+33,High,Family with Kids,3,Dinner,Delivery,38.85,No,22,Tradition,Comfort Food,High,Tried something new and absolutely loved it.
+33,Medium,Single,10,Breakfast,Dine-in,58.26,No,18,Convenience,Locally Sourced,Low,Felt like I was eating at a friend's house. So comforting.
+63,Low,Couple,9,Dinner,Takeout,49.0,No,25,Social Aspect,Comfort Food,Low,Felt like I was eating at a friend's house. So comforting.
+51,Medium,Multigenerational,2,Dinner,Delivery,33.05,Yes,3,Social Aspect,Healthy,High,Felt like I was eating at a friend's house. So comforting.
+61,Medium,Family with Kids,4,Breakfast,Dine-in,56.41,No,24,Social Aspect,Locally Sourced,Low,Tried something new and absolutely loved it.
+64,Medium,Multigenerational,8,Breakfast,Dine-in,18.9,Yes,4,Convenience,Experimental,High,The portions were generous and the flavors authentic.
+32,High,Couple,2,Late-night,Takeout,25.65,Yes,31,Social Aspect,Experimental,High,The portions were generous and the flavors authentic.
+39,Low,Couple,7,Late-night,Delivery,44.67,Yes,30,Taste,Experimental,Low,The service was friendly and the food felt homemade.
+58,Low,Single,11,Late-night,Dine-in,40.44,No,33,Taste,Comfort Food,Medium,The portions were generous and the flavors authentic.
+18,Medium,Multigenerational,9,Breakfast,Takeout,52.34,Yes,32,Tradition,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+44,High,Single,9,Dinner,Dine-in,19.43,No,17,Convenience,Locally Sourced,Medium,A perfect spot for a quiet meal and good conversation.
+58,Medium,Single,8,Breakfast,Takeout,18.73,Yes,24,Social Aspect,Comfort Food,High,Great experience! Will definitely be coming back soon.
+53,Low,Multigenerational,7,Dinner,Takeout,56.89,Yes,40,Social Aspect,Healthy,High,I loved the cozy atmosphere and the fresh ingredients.
+55,High,Single,13,Lunch,Takeout,17.08,No,35,Tradition,Experimental,High,The service was friendly and the food felt homemade.
+21,Low,Family with Kids,2,Dinner,Delivery,38.73,No,33,Convenience,Experimental,Low,"Affordable, delicious, and a true neighborhood gem."
+60,Medium,Single,12,Dinner,Takeout,32.5,No,14,Taste,Comfort Food,Medium,"Not my usual spot, but I was pleasantly surprised."
+51,Low,Single,0,Lunch,Delivery,32.83,No,5,Tradition,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+20,High,Family with Kids,4,Breakfast,Takeout,50.87,Yes,13,Convenience,Healthy,High,"Affordable, delicious, and a true neighborhood gem."
+40,Medium,Couple,0,Late-night,Delivery,12.28,Yes,26,Taste,Locally Sourced,Low,I loved the cozy atmosphere and the fresh ingredients.
+36,Low,Family with Kids,5,Lunch,Dine-in,23.35,No,11,Tradition,Comfort Food,Low,The service was friendly and the food felt homemade.
+31,Medium,Couple,12,Dinner,Delivery,49.0,No,26,Social Aspect,Comfort Food,Medium,"Affordable, delicious, and a true neighborhood gem."
+31,Medium,Single,12,Dinner,Dine-in,39.39,Yes,28,Convenience,Comfort Food,Medium,"The wait was a bit long, but the food made up for it."
+61,High,Family with Kids,1,Dinner,Takeout,47.72,Yes,1,Social Aspect,Locally Sourced,Medium,A perfect spot for a quiet meal and good conversation.
+56,Medium,Couple,0,Late-night,Delivery,38.47,No,0,Tradition,Locally Sourced,Low,"Not my usual spot, but I was pleasantly surprised."
+33,Medium,Couple,5,Dinner,Delivery,47.68,Yes,13,Tradition,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+62,High,Family with Kids,8,Breakfast,Takeout,44.77,Yes,1,Social Aspect,Locally Sourced,High,Tried something new and absolutely loved it.
+40,Low,Family with Kids,6,Breakfast,Delivery,45.75,No,29,Taste,Locally Sourced,High,Tried something new and absolutely loved it.
+62,Low,Family with Kids,8,Breakfast,Dine-in,55.53,No,1,Social Aspect,Comfort Food,Medium,I loved the cozy atmosphere and the fresh ingredients.
+39,Low,Family with Kids,9,Dinner,Takeout,56.18,No,37,Taste,Locally Sourced,Low,Great experience! Will definitely be coming back soon.
+38,Low,Family with Kids,13,Breakfast,Dine-in,14.73,No,11,Convenience,Experimental,Medium,Tried something new and absolutely loved it.
+29,Medium,Couple,7,Dinner,Dine-in,46.34,Yes,9,Taste,Locally Sourced,Low,Tried something new and absolutely loved it.
+66,Low,Single,9,Dinner,Delivery,55.19,No,23,Taste,Healthy,Medium,The service was friendly and the food felt homemade.
+42,Low,Couple,10,Lunch,Takeout,51.88,Yes,12,Tradition,Comfort Food,High,The service was friendly and the food felt homemade.
+60,Low,Multigenerational,9,Late-night,Delivery,55.79,Yes,7,Taste,Comfort Food,Low,Tried something new and absolutely loved it.
+41,Medium,Family with Kids,5,Dinner,Delivery,29.56,No,29,Social Aspect,Experimental,Medium,I loved the cozy atmosphere and the fresh ingredients.
+45,High,Couple,4,Breakfast,Takeout,49.25,Yes,14,Convenience,Experimental,Medium,"Not my usual spot, but I was pleasantly surprised."
+25,High,Family with Kids,9,Dinner,Takeout,21.28,Yes,3,Social Aspect,Healthy,Low,A perfect spot for a quiet meal and good conversation.
+18,High,Multigenerational,2,Lunch,Takeout,51.55,No,8,Taste,Experimental,High,A perfect spot for a quiet meal and good conversation.
+58,High,Family with Kids,2,Late-night,Delivery,43.72,No,23,Convenience,Healthy,Medium,"The wait was a bit long, but the food made up for it."
+26,Medium,Single,2,Breakfast,Delivery,32.25,Yes,1,Tradition,Experimental,Medium,"The wait was a bit long, but the food made up for it."
+54,High,Single,7,Late-night,Dine-in,54.35,No,2,Taste,Comfort Food,Medium,I loved the cozy atmosphere and the fresh ingredients.
+65,Low,Family with Kids,7,Lunch,Delivery,18.64,No,18,Convenience,Experimental,Low,The service was friendly and the food felt homemade.
+59,Low,Family with Kids,5,Lunch,Takeout,30.26,Yes,19,Tradition,Experimental,Low,I loved the cozy atmosphere and the fresh ingredients.
+20,High,Couple,4,Lunch,Delivery,17.51,Yes,28,Taste,Comfort Food,Low,I loved the cozy atmosphere and the fresh ingredients.
+35,Medium,Couple,8,Lunch,Delivery,21.9,No,0,Convenience,Experimental,Low,"The wait was a bit long, but the food made up for it."
+58,High,Single,4,Lunch,Dine-in,29.86,Yes,19,Social Aspect,Experimental,High,The portions were generous and the flavors authentic.
+42,Low,Multigenerational,10,Breakfast,Dine-in,7.48,Yes,9,Tradition,Locally Sourced,Medium,The service was friendly and the food felt homemade.
+30,Low,Single,6,Dinner,Delivery,8.7,Yes,39,Tradition,Healthy,Low,Tried something new and absolutely loved it.
+51,Medium,Single,2,Lunch,Delivery,33.05,Yes,36,Taste,Healthy,Medium,Tried something new and absolutely loved it.
+35,Medium,Family with Kids,3,Dinner,Dine-in,5.09,No,23,Tradition,Healthy,Medium,A perfect spot for a quiet meal and good conversation.
+44,High,Couple,12,Breakfast,Delivery,21.59,No,0,Social Aspect,Locally Sourced,High,A perfect spot for a quiet meal and good conversation.
+41,Medium,Single,8,Breakfast,Dine-in,34.29,Yes,24,Taste,Comfort Food,High,"Not my usual spot, but I was pleasantly surprised."
+36,High,Multigenerational,9,Dinner,Dine-in,29.53,Yes,38,Convenience,Comfort Food,High,Great experience! Will definitely be coming back soon.
+22,High,Couple,11,Breakfast,Dine-in,11.38,No,32,Convenience,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+46,High,Family with Kids,11,Breakfast,Delivery,20.02,Yes,2,Convenience,Experimental,High,The portions were generous and the flavors authentic.
+30,High,Couple,0,Dinner,Dine-in,59.33,No,6,Convenience,Locally Sourced,High,"The wait was a bit long, but the food made up for it."
+49,Low,Couple,6,Late-night,Takeout,22.03,No,25,Convenience,Experimental,High,"Affordable, delicious, and a true neighborhood gem."
+31,Low,Multigenerational,0,Breakfast,Dine-in,5.22,No,10,Taste,Locally Sourced,High,"Not my usual spot, but I was pleasantly surprised."
+64,High,Couple,12,Late-night,Takeout,14.57,No,11,Tradition,Healthy,Low,"Not my usual spot, but I was pleasantly surprised."
+46,High,Multigenerational,5,Lunch,Dine-in,6.08,Yes,26,Tradition,Experimental,Medium,Felt like I was eating at a friend's house. So comforting.
+59,Medium,Couple,11,Late-night,Takeout,17.84,No,14,Social Aspect,Comfort Food,Low,I loved the cozy atmosphere and the fresh ingredients.
+40,Low,Couple,4,Late-night,Takeout,7.84,No,34,Convenience,Locally Sourced,Low,A perfect spot for a quiet meal and good conversation.
+25,Low,Family with Kids,9,Breakfast,Delivery,48.17,No,11,Convenience,Healthy,Low,"Affordable, delicious, and a true neighborhood gem."
+59,Low,Single,8,Late-night,Delivery,26.25,Yes,20,Social Aspect,Locally Sourced,Low,"Not my usual spot, but I was pleasantly surprised."
+19,Low,Single,6,Lunch,Dine-in,55.82,Yes,32,Tradition,Experimental,Low,Tried something new and absolutely loved it.
+41,High,Couple,8,Breakfast,Delivery,50.53,Yes,20,Tradition,Experimental,High,Great experience! Will definitely be coming back soon.
+58,High,Single,13,Dinner,Delivery,8.02,Yes,0,Tradition,Healthy,Medium,Tried something new and absolutely loved it.
+41,Low,Single,11,Dinner,Delivery,49.52,No,1,Social Aspect,Locally Sourced,Medium,A perfect spot for a quiet meal and good conversation.
+53,Medium,Couple,12,Breakfast,Dine-in,27.82,Yes,32,Tradition,Comfort Food,High,Felt like I was eating at a friend's house. So comforting.
+67,Low,Family with Kids,13,Breakfast,Delivery,44.48,No,26,Convenience,Locally Sourced,Medium,Great experience! Will definitely be coming back soon.
+43,High,Single,12,Dinner,Delivery,27.35,Yes,31,Taste,Locally Sourced,Low,"Not my usual spot, but I was pleasantly surprised."
+64,Low,Family with Kids,13,Lunch,Dine-in,43.61,No,19,Tradition,Healthy,High,Tried something new and absolutely loved it.
+68,Medium,Single,12,Dinner,Delivery,28.81,No,1,Social Aspect,Healthy,High,The service was friendly and the food felt homemade.
+28,Low,Single,0,Late-night,Dine-in,9.38,No,19,Taste,Locally Sourced,Low,The service was friendly and the food felt homemade.
+39,Medium,Couple,13,Breakfast,Takeout,59.44,Yes,3,Convenience,Locally Sourced,Low,Tried something new and absolutely loved it.
+19,Low,Family with Kids,7,Lunch,Delivery,21.21,No,0,Convenience,Comfort Food,Low,"Affordable, delicious, and a true neighborhood gem."
+63,Low,Single,10,Lunch,Takeout,24.17,Yes,23,Tradition,Healthy,Medium,"Affordable, delicious, and a true neighborhood gem."
+61,Medium,Couple,12,Late-night,Takeout,52.62,Yes,24,Social Aspect,Experimental,Medium,A perfect spot for a quiet meal and good conversation.
+64,Medium,Multigenerational,13,Breakfast,Dine-in,34.55,No,33,Taste,Experimental,Medium,The service was friendly and the food felt homemade.
+42,High,Couple,2,Breakfast,Dine-in,28.06,Yes,38,Social Aspect,Healthy,Medium,Tried something new and absolutely loved it.
+30,Low,Single,13,Dinner,Dine-in,32.32,Yes,31,Convenience,Experimental,Low,"Not my usual spot, but I was pleasantly surprised."
+66,Medium,Single,6,Late-night,Takeout,11.95,Yes,0,Taste,Healthy,Low,I loved the cozy atmosphere and the fresh ingredients.
+55,Low,Couple,10,Lunch,Delivery,22.2,Yes,18,Convenience,Experimental,High,Tried something new and absolutely loved it.
+54,High,Single,3,Breakfast,Takeout,55.91,Yes,17,Convenience,Comfort Food,Medium,The portions were generous and the flavors authentic.
+42,High,Single,4,Late-night,Dine-in,52.13,Yes,38,Convenience,Healthy,Low,Great experience! Will definitely be coming back soon.
+64,Low,Single,6,Lunch,Delivery,25.02,No,2,Tradition,Locally Sourced,Low,The portions were generous and the flavors authentic.
+47,High,Multigenerational,12,Lunch,Takeout,43.65,Yes,34,Tradition,Comfort Food,Low,The portions were generous and the flavors authentic.
+30,Medium,Single,3,Dinner,Takeout,17.77,Yes,1,Social Aspect,Comfort Food,Low,I loved the cozy atmosphere and the fresh ingredients.
+67,High,Family with Kids,9,Late-night,Takeout,12.54,No,40,Taste,Comfort Food,Low,Great experience! Will definitely be coming back soon.
+47,Medium,Single,0,Late-night,Delivery,42.65,Yes,9,Tradition,Locally Sourced,High,Felt like I was eating at a friend's house. So comforting.
+19,Low,Multigenerational,4,Breakfast,Delivery,16.96,No,40,Taste,Experimental,Medium,The portions were generous and the flavors authentic.
+62,Low,Single,3,Dinner,Dine-in,51.24,No,0,Social Aspect,Comfort Food,Medium,Felt like I was eating at a friend's house. So comforting.
+22,Medium,Multigenerational,7,Lunch,Dine-in,16.98,No,26,Convenience,Experimental,Medium,The service was friendly and the food felt homemade.
+56,Low,Couple,11,Late-night,Dine-in,26.88,No,24,Social Aspect,Comfort Food,Medium,Tried something new and absolutely loved it.
+35,High,Multigenerational,3,Dinner,Takeout,47.36,Yes,27,Convenience,Comfort Food,Medium,Tried something new and absolutely loved it.
+45,Low,Family with Kids,3,Lunch,Delivery,26.13,No,38,Taste,Healthy,High,Great experience! Will definitely be coming back soon.
+55,Medium,Multigenerational,6,Breakfast,Delivery,49.95,No,29,Taste,Comfort Food,Low,The service was friendly and the food felt homemade.
+52,Medium,Family with Kids,1,Lunch,Dine-in,32.34,Yes,9,Convenience,Healthy,Low,Felt like I was eating at a friend's house. So comforting.
+65,High,Single,1,Dinner,Dine-in,55.69,No,2,Tradition,Experimental,Low,A perfect spot for a quiet meal and good conversation.
+32,Low,Multigenerational,11,Breakfast,Takeout,13.63,No,4,Taste,Healthy,High,The portions were generous and the flavors authentic.
+45,Medium,Family with Kids,3,Lunch,Dine-in,33.04,Yes,14,Social Aspect,Locally Sourced,High,"Affordable, delicious, and a true neighborhood gem."
+60,Medium,Multigenerational,10,Breakfast,Takeout,41.26,Yes,6,Convenience,Locally Sourced,Low,The portions were generous and the flavors authentic.
+21,High,Family with Kids,8,Breakfast,Dine-in,44.31,Yes,23,Social Aspect,Locally Sourced,High,A perfect spot for a quiet meal and good conversation.
+49,Medium,Family with Kids,9,Dinner,Dine-in,25.12,Yes,6,Taste,Healthy,High,Great experience! Will definitely be coming back soon.
+47,High,Family with Kids,4,Late-night,Takeout,15.98,No,18,Social Aspect,Comfort Food,Low,The service was friendly and the food felt homemade.
+66,Low,Single,7,Late-night,Takeout,46.49,Yes,14,Convenience,Locally Sourced,Medium,I loved the cozy atmosphere and the fresh ingredients.
+23,Low,Multigenerational,0,Breakfast,Dine-in,57.76,Yes,11,Convenience,Healthy,Low,A perfect spot for a quiet meal and good conversation.
+23,High,Multigenerational,6,Dinner,Dine-in,9.93,Yes,8,Convenience,Comfort Food,Low,"Affordable, delicious, and a true neighborhood gem."
+67,Medium,Couple,2,Dinner,Dine-in,56.67,No,12,Social Aspect,Healthy,Medium,"The wait was a bit long, but the food made up for it."
+56,Low,Family with Kids,6,Dinner,Takeout,27.66,No,9,Social Aspect,Locally Sourced,Low,"The wait was a bit long, but the food made up for it."
+21,Medium,Single,9,Lunch,Dine-in,21.88,No,37,Social Aspect,Comfort Food,Medium,Great experience! Will definitely be coming back soon.
+33,High,Family with Kids,3,Late-night,Dine-in,37.45,No,4,Social Aspect,Locally Sourced,Medium,"Not my usual spot, but I was pleasantly surprised."
+61,Medium,Family with Kids,8,Breakfast,Dine-in,20.82,No,12,Social Aspect,Experimental,High,Felt like I was eating at a friend's house. So comforting.
+20,Medium,Single,10,Breakfast,Dine-in,43.06,No,29,Convenience,Healthy,High,A perfect spot for a quiet meal and good conversation.
+25,Low,Multigenerational,9,Lunch,Takeout,53.4,No,2,Taste,Locally Sourced,High,The portions were generous and the flavors authentic.
+34,High,Multigenerational,5,Lunch,Delivery,14.47,No,0,Tradition,Comfort Food,Low,Great experience! Will definitely be coming back soon.
+46,Medium,Family with Kids,3,Late-night,Takeout,47.45,No,21,Tradition,Experimental,Medium,"The wait was a bit long, but the food made up for it."
+36,High,Couple,0,Lunch,Dine-in,5.84,Yes,24,Taste,Experimental,Low,Felt like I was eating at a friend's house. So comforting.
+18,Low,Multigenerational,6,Lunch,Takeout,13.48,Yes,10,Taste,Locally Sourced,High,Great experience! Will definitely be coming back soon.
+70,Low,Multigenerational,1,Lunch,Delivery,56.5,Yes,32,Convenience,Experimental,Medium,The service was friendly and the food felt homemade.
+59,High,Couple,7,Lunch,Delivery,25.75,Yes,8,Taste,Comfort Food,Medium,Great experience! Will definitely be coming back soon.
+43,Medium,Single,12,Lunch,Takeout,38.75,No,38,Convenience,Healthy,Medium,"The wait was a bit long, but the food made up for it."
+49,High,Single,9,Breakfast,Dine-in,22.0,Yes,11,Taste,Locally Sourced,Low,Felt like I was eating at a friend's house. So comforting.
+38,Medium,Single,7,Breakfast,Delivery,54.82,No,34,Taste,Locally Sourced,High,I loved the cozy atmosphere and the fresh ingredients.
+32,Low,Couple,11,Breakfast,Delivery,6.51,Yes,9,Social Aspect,Locally Sourced,Medium,Great experience! Will definitely be coming back soon.
+26,Medium,Family with Kids,3,Late-night,Delivery,22.65,No,36,Taste,Comfort Food,Low,"Not my usual spot, but I was pleasantly surprised."
+53,Medium,Family with Kids,8,Dinner,Dine-in,5.3,Yes,17,Convenience,Experimental,High,"Not my usual spot, but I was pleasantly surprised."
+64,Medium,Couple,6,Late-night,Delivery,41.6,Yes,28,Taste,Comfort Food,Low,"The wait was a bit long, but the food made up for it."
+45,Low,Multigenerational,4,Late-night,Dine-in,51.91,No,18,Taste,Locally Sourced,Medium,A perfect spot for a quiet meal and good conversation.
+31,Low,Multigenerational,1,Dinner,Dine-in,47.95,No,29,Taste,Comfort Food,Medium,"Not my usual spot, but I was pleasantly surprised."
+41,Low,Multigenerational,11,Dinner,Dine-in,40.55,No,2,Social Aspect,Locally Sourced,Low,The portions were generous and the flavors authentic.
+58,Low,Family with Kids,3,Breakfast,Delivery,53.2,No,0,Taste,Experimental,Medium,"Not my usual spot, but I was pleasantly surprised."
+31,Medium,Multigenerational,12,Late-night,Delivery,51.14,Yes,34,Social Aspect,Healthy,Medium,A perfect spot for a quiet meal and good conversation.
+45,High,Multigenerational,10,Late-night,Dine-in,11.3,Yes,23,Convenience,Locally Sourced,Low,Felt like I was eating at a friend's house. So comforting.
+57,Low,Multigenerational,11,Breakfast,Delivery,9.55,No,8,Convenience,Experimental,Low,"Affordable, delicious, and a true neighborhood gem."
+38,Low,Multigenerational,13,Breakfast,Dine-in,16.0,No,38,Social Aspect,Healthy,Medium,Felt like I was eating at a friend's house. So comforting.
+57,Medium,Single,9,Late-night,Takeout,12.87,No,29,Social Aspect,Experimental,Low,The portions were generous and the flavors authentic.
+57,Medium,Multigenerational,0,Lunch,Delivery,22.2,No,37,Tradition,Comfort Food,Low,Great experience! Will definitely be coming back soon.
+38,Medium,Family with Kids,1,Lunch,Takeout,5.97,Yes,5,Social Aspect,Experimental,Low,"Affordable, delicious, and a true neighborhood gem."
+44,Low,Couple,10,Late-night,Dine-in,45.62,Yes,7,Convenience,Comfort Food,Low,A perfect spot for a quiet meal and good conversation.
+69,Low,Multigenerational,11,Dinner,Delivery,14.11,No,30,Taste,Locally Sourced,Low,Tried something new and absolutely loved it.
+19,Low,Family with Kids,6,Lunch,Delivery,13.35,Yes,4,Convenience,Healthy,Medium,A perfect spot for a quiet meal and good conversation.
+49,Medium,Family with Kids,9,Breakfast,Takeout,15.34,No,19,Tradition,Locally Sourced,Low,Great experience! Will definitely be coming back soon.
+25,High,Single,3,Lunch,Delivery,14.92,No,30,Tradition,Experimental,High,Great experience! Will definitely be coming back soon.
+66,Low,Multigenerational,9,Dinner,Delivery,31.4,No,33,Social Aspect,Comfort Food,High,"Not my usual spot, but I was pleasantly surprised."
+43,High,Couple,6,Lunch,Dine-in,46.63,Yes,7,Tradition,Locally Sourced,High,"Affordable, delicious, and a true neighborhood gem."
+55,High,Family with Kids,12,Breakfast,Takeout,43.56,No,4,Social Aspect,Experimental,Medium,The service was friendly and the food felt homemade.
+62,Medium,Couple,9,Lunch,Takeout,35.39,No,34,Taste,Healthy,Medium,"The wait was a bit long, but the food made up for it."
+60,High,Single,5,Dinner,Delivery,41.42,Yes,32,Taste,Healthy,High,Tried something new and absolutely loved it.
+32,High,Single,5,Breakfast,Takeout,24.33,No,9,Convenience,Experimental,High,Felt like I was eating at a friend's house. So comforting.
+64,High,Family with Kids,5,Breakfast,Takeout,13.5,No,7,Tradition,Healthy,Low,"The wait was a bit long, but the food made up for it."
+63,Low,Multigenerational,4,Breakfast,Dine-in,9.29,Yes,21,Tradition,Experimental,Medium,The service was friendly and the food felt homemade.
+63,Low,Single,5,Late-night,Dine-in,43.29,No,21,Convenience,Healthy,Medium,The service was friendly and the food felt homemade.
+47,High,Single,12,Breakfast,Delivery,46.61,Yes,31,Tradition,Experimental,Low,The service was friendly and the food felt homemade.
+25,Low,Single,5,Late-night,Delivery,28.86,Yes,38,Social Aspect,Comfort Food,Low,"The wait was a bit long, but the food made up for it."
+66,High,Family with Kids,13,Breakfast,Delivery,35.89,Yes,35,Tradition,Comfort Food,High,The portions were generous and the flavors authentic.
+35,Low,Family with Kids,7,Breakfast,Delivery,10.93,No,24,Tradition,Experimental,High,A perfect spot for a quiet meal and good conversation.
+51,Low,Couple,1,Breakfast,Dine-in,14.35,Yes,10,Tradition,Locally Sourced,Low,Great experience! Will definitely be coming back soon.
+32,Medium,Family with Kids,6,Breakfast,Takeout,43.03,Yes,7,Social Aspect,Experimental,High,The service was friendly and the food felt homemade.
+50,Medium,Couple,1,Dinner,Takeout,42.35,Yes,28,Convenience,Experimental,High,The portions were generous and the flavors authentic.
+37,Low,Couple,9,Breakfast,Takeout,58.8,No,7,Tradition,Healthy,Low,"The wait was a bit long, but the food made up for it."
+58,High,Single,7,Lunch,Takeout,39.31,Yes,12,Tradition,Experimental,Low,The service was friendly and the food felt homemade.
+20,High,Couple,1,Dinner,Delivery,19.03,No,28,Social Aspect,Comfort Food,Low,The service was friendly and the food felt homemade.
+61,High,Family with Kids,12,Late-night,Dine-in,26.98,Yes,10,Social Aspect,Healthy,High,I loved the cozy atmosphere and the fresh ingredients.
+56,High,Multigenerational,10,Breakfast,Dine-in,24.21,No,6,Social Aspect,Experimental,High,"The wait was a bit long, but the food made up for it."
+32,Medium,Family with Kids,2,Dinner,Delivery,48.41,Yes,32,Taste,Comfort Food,High,Great experience! Will definitely be coming back soon.
+18,Low,Couple,2,Breakfast,Dine-in,59.39,Yes,33,Tradition,Locally Sourced,Low,Tried something new and absolutely loved it.
+44,Medium,Multigenerational,9,Dinner,Takeout,15.41,Yes,26,Tradition,Experimental,High,The service was friendly and the food felt homemade.
+30,High,Single,7,Late-night,Delivery,38.69,No,7,Convenience,Healthy,Medium,The service was friendly and the food felt homemade.
+26,Low,Multigenerational,5,Lunch,Dine-in,13.83,No,10,Social Aspect,Experimental,Low,"Affordable, delicious, and a true neighborhood gem."
+40,Medium,Family with Kids,11,Dinner,Dine-in,43.29,Yes,34,Convenience,Healthy,Low,I loved the cozy atmosphere and the fresh ingredients.
+51,High,Single,0,Dinner,Dine-in,21.78,No,11,Social Aspect,Locally Sourced,Low,"Not my usual spot, but I was pleasantly surprised."
+52,High,Family with Kids,13,Late-night,Dine-in,46.77,No,38,Social Aspect,Healthy,High,"The wait was a bit long, but the food made up for it."
+43,Medium,Couple,13,Late-night,Delivery,54.45,Yes,20,Taste,Comfort Food,High,"Affordable, delicious, and a true neighborhood gem."
+69,Low,Single,7,Breakfast,Dine-in,16.42,Yes,2,Taste,Comfort Food,Medium,"Affordable, delicious, and a true neighborhood gem."
+21,Low,Single,9,Lunch,Dine-in,59.14,No,17,Social Aspect,Experimental,Medium,I loved the cozy atmosphere and the fresh ingredients.
+44,Medium,Family with Kids,4,Breakfast,Takeout,32.12,Yes,20,Taste,Comfort Food,Low,"Not my usual spot, but I was pleasantly surprised."
+24,High,Family with Kids,5,Late-night,Dine-in,34.95,Yes,30,Tradition,Experimental,Low,"Affordable, delicious, and a true neighborhood gem."
+69,Low,Multigenerational,7,Lunch,Dine-in,15.31,Yes,40,Tradition,Comfort Food,Low,I loved the cozy atmosphere and the fresh ingredients.
+69,Medium,Couple,3,Late-night,Dine-in,27.71,Yes,39,Convenience,Healthy,Low,"Not my usual spot, but I was pleasantly surprised."
+64,High,Couple,11,Lunch,Delivery,15.14,Yes,4,Taste,Experimental,Medium,Tried something new and absolutely loved it.
+20,Low,Couple,7,Late-night,Delivery,45.01,No,20,Taste,Experimental,High,Great experience! Will definitely be coming back soon.
